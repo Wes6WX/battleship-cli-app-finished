@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "node": "^24.8.0",
+    "readline-sync": "^1.4.10"
+  },
+  "scripts": {
+    "start-game": "node index.js"
+  }
+}
